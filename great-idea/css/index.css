@@ -194,6 +194,7 @@ header .logo {
   width: 275px;
   display: inline-block;
   margin-right: 12px;
+  padding-right: 5px;
 }
 
 .main-content .bottom-content .text-content:last-child {
